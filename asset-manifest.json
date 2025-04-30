@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai-shayari-poem-generator/static/css/main.79bc3805.css",
+    "main.js": "/ai-shayari-poem-generator/static/js/main.54543bf6.js",
+    "index.html": "/ai-shayari-poem-generator/index.html",
+    "main.79bc3805.css.map": "/ai-shayari-poem-generator/static/css/main.79bc3805.css.map",
+    "main.54543bf6.js.map": "/ai-shayari-poem-generator/static/js/main.54543bf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79bc3805.css",
+    "static/js/main.54543bf6.js"
+  ]
+}
